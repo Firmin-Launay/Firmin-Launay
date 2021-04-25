@@ -1,4 +1,4 @@
-# Firmin Launay
+# 👋🏻 Firmin Launay
 Hello, my name is Firmin, and here is my GitHub profile.  
 You can find the coding projects that I published or that I am currently working on.  
   
