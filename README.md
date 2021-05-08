@@ -4,9 +4,9 @@ You can find the coding projects that I published or that I am currently working
   
 **Discover my website :** [firmin.tk](https://firmin.tk/)  
 
-[<img src="https://github-readme-stats.vercel.app/api?username=filau&theme=nord">](https://github.com/filau)  
+[<img src="https://github-readme-stats.vercel.app/api?username=filau&theme=nord">](#)  
 &nbsp;  
-[<img src="https://github.com/filau/filau/blob/main/curl.gif?raw=true">](https://firmin.tk/)
+[<img src="https://github.com/filau/filau/blob/main/curl.gif?raw=true">](#)
 > *I’m in your terminal!*
 ## Projects
 * [*Générateur d’attesation de déplacement dérogatoire*](https://github.com/FLA-Coding/ADD_202010) was a tiny French desktop app developed in Python which allowed to generate some testimonials related to Covid-19 restrictions in France (October 2020 - March 2021).
