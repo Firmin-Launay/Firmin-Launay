@@ -4,7 +4,7 @@ You can find the coding projects that I published or that I am currently working
   
 **Discover my website :** [firmin.tk](https://firmin.tk/)  
 
-[<img src="https://github-readme-stats.vercel.app/api?username=filau&theme=nord">](https://github.com/Firmin-Launay)  
+[<img src="https://github-readme-stats.vercel.app/api?username=filau&theme=nord">](https://github.com/filau)  
 &nbsp;  
 [<img src="https://github.com/filau/filau/blob/main/curl.gif?raw=true">](https://firmin.tk/)
 > *I’m in your terminal!*
