@@ -2,7 +2,7 @@
 Hello, my name is Firmin, and here is my GitHub profile.  
 You can find the coding projects that I published or that I am currently working on.  
   
-**Discover my website :** [firmin.tk](https://firmin.tk/)  
+**Discover my website :** [firminlaunay.me](https://firminlaunay.me/)  
 
 [<img style="cursor: default;" src="https://github-readme-stats.vercel.app/api?username=filau&theme=nord">](#)  
 &nbsp;  
