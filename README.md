@@ -5,9 +5,6 @@ You can find the coding projects that I published or that I am currently working
 **Discover my website :** [firminlaunay.me](https://firminlaunay.me/)  
 
 [<img style="cursor: default;" src="https://github-readme-stats.vercel.app/api?username=filau&theme=nord">](#)  
-&nbsp;  
-[<img style="cursor: default;" src="https://github.com/filau/filau/blob/main/curl.gif?raw=true">](#)
-> *I’m in your terminal!*
 ## Projects
 * [*Générateur d’attesation de déplacement dérogatoire*](https://github.com/FLA-Coding/ADD_202010) was a tiny French desktop app developed in Python which allowed to generate some testimonials related to Covid-19 restrictions in France (October 2020 - March 2021).
 * [*RaspiMote*](https://github.com/RaspiMote/RaspiMote) is a customizable solution, currently in development, which allows to turn a Raspberry Pi into a programmable keyboard / controller / remote control.
